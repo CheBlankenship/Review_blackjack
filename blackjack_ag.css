@@ -1,0 +1,72 @@
+label{
+    font-size: 40px;
+}
+
+.table{
+    background-color: lightgreen;
+    height: 500px;
+    width: 800px;
+    margin:auto;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+#dealer-hand{
+    height: 120px;
+    width: 700px;
+    margin-left: 5%;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 8px;
+}
+
+#player-hand{
+    height: 120px;
+    width: 700px;
+    margin-left: 5%;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 8px;
+}
+
+
+
+
+.buttons{
+    text-align: center;
+    margin-top:5px;
+}
+
+
+.buttons #deal-button{
+    font-size: 50px;
+    border-radius: 5px;
+    border: 0.2px solid lightgray;
+}
+.buttons #hit-button{
+    font-size: 50px;
+    border-radius: 5px;
+    border: 0.2px solid lightgray;
+}
+.buttons #stand-button{
+    font-size: 50px;
+    border-radius: 5px;
+    border: 0.2px solid lightgray;
+}
+
+.buttons #strat-button{
+    background-color: lightblue;
+    font-size: 50px;
+    border-radius: 5px;
+    border: 2px solid lightblue;
+    margin-top: 10px;
+}
+
+
+
+
+img{
+    height: 80px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+}
